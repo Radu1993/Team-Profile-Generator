@@ -1,5 +1,3 @@
-## Team-Profile-Generator
-
 ## Team Profile Generator
 https://github.com/Radu1993/
 
