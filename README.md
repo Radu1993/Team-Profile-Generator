@@ -1,7 +1,6 @@
-<<<<<<< Updated upstream
-# Team-Profile-Generator
-=======
-# Team Profile Generator
+## Team-Profile-Generator
+
+## Team Profile Generator
 https://github.com/Radu1993/
 
 ## Description
@@ -61,5 +60,3 @@ Please contact me on :
 ## Credits 
 My tutor : Dan Mueller
 Third party: Youtube, W3schools, Github.
-
->>>>>>> Stashed changes
